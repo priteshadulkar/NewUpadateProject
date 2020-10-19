@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2020-10-09T15:38:56Z" finished-at="2020-10-09T15:38:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2020-10-09T15:38:56Z" finished-at="2020-10-09T15:38:56Z">
+      <class name="newupdate.ALllJava">
+        <test-method status="PASS" signature="duplicate()[pri:0, instance:newupdate.ALllJava@f6c48ac]" name="duplicate" duration-ms="23" started-at="2020-10-09T21:08:56Z" finished-at="2020-10-09T21:08:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicate -->
+        <test-method status="PASS" signature="patteren()[pri:0, instance:newupdate.ALllJava@f6c48ac]" name="patteren" duration-ms="7" started-at="2020-10-09T21:08:56Z" finished-at="2020-10-09T21:08:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patteren -->
+      </class> <!-- newupdate.ALllJava -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

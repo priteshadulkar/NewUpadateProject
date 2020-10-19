@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2020-09-02T13:53:18Z" finished-at="2020-09-02T13:53:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2020-09-02T13:53:18Z" finished-at="2020-09-02T13:53:18Z">
+      <class name="newupdate.Java">
+        <test-method status="PASS" signature="pal()[pri:0, instance:newupdate.Java@6b2fad11]" name="pal" duration-ms="25" started-at="2020-09-02T19:23:18Z" finished-at="2020-09-02T19:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pal -->
+      </class> <!-- newupdate.Java -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
